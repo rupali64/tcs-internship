@@ -1,5 +1,5 @@
 # tcs-internship
-TCS iON 210 Internship: By: Manisha Gupta
+TCS iON 210 Internship: By: Rupali Sharma
 
 Automate Identification & Recognition of Handwritten Text from an Image
 
